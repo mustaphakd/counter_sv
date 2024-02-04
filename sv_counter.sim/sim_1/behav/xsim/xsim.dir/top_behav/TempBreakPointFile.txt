@@ -1,0 +1,4 @@
+Breakpoint File Version 1.0
+48,true,"D:/s/sv_counter/sv_counter.srcs/sim_1/new/counter_dv.sv"
+53,true,"D:/s/sv_counter/sv_counter.srcs/sim_1/new/counter_dv.sv"
+56,true,"D:/s/sv_counter/sv_counter.srcs/sim_1/new/counter_dv.sv"
